@@ -8,7 +8,7 @@ class chargeAccount
     public double minimumPayment;
     public double newBalance;
     public double interest;
-    public void main(String[] args){
+    public void creditStatement(String[] args){
         //uses scanner to allow user to input previous balance and additional
         //charges
         getInput();

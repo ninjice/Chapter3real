@@ -1,7 +1,7 @@
 #BlueJ class context
 comment0.target=chargeAccount
 comment1.params=args
-comment1.target=void\ main(java.lang.String[])
+comment1.target=void\ creditStatement(java.lang.String[])
 comment2.params=
 comment2.target=void\ getInput()
 comment3.params=
