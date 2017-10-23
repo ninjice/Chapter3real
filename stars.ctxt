@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=stars
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ getInputs()
+comment3.params=LargestRow
+comment3.target=void\ PatternA(int)
+comment4.params=st\ num
+comment4.target=void\ printItem(java.lang.String,\ int)
+numComments=5
